@@ -1,4 +1,4 @@
-# haunting-src
+# Haunting-SRC
 
 created by: veltz, vorqz & vert
 
